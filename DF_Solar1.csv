@@ -1,0 +1,118 @@
+Node name,Description,Latitude,Longitude,No of Venues,Mean distance,PVOUT
+11KV,"""power""=>""line""",33.0142499,70.6999141,1,7590,4.3
+500 KV Transmission line,"""power""=>""line"",""cables""=>""3"",""voltage""=>""500000"",""frequency""=>""50""",28.4306501,69.6920106,6,4687.833333,4.46
+AES Lalpir 362 MW,"""power""=>""sub_station"",""voltage""=>""220000"",""substation""=>""yes""",30.098233,71.1624165,4,4917.75,4.425
+AES Pak Gen Oil Power Plant,"""power""=>""plant"",""generator:method""=>""thermal"",""generator:source""=>""oil"",""plant:output:electricity""=>""344 MW""",30.1755931,70.9253203,0,14593.5,4.367
+Anoud Power Generation,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""oil""",24.8466936,67.1312685,100,9587.07,4.69
+Atlas Power Plant,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""oil"",""generator:output:electricity""=>""120 MW""",31.6774322,74.0816541,20,8217.65,4.2
+Attock Generation Oil Power Plant,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""oil"",""generator:output:electricity""=>""165 MW""",33.5565785,73.072533,16,14593.5,4.25
+BROTHA,"""power""=>""sub_station""",33.7778661,72.2510378,5,6738.8,4.2
+Bahria Town,"""power""=>""substation"",""voltage""=>""220000"",""operator""=>""NTDC""",33.485745,73.0972984,5,7942.4,4.25
+Balloki Power Plant,"""power""=>""plant"",""generator:method""=>""thermal"",""generator:source""=>""Gas; oil, diesel"",""plant:output:electricity""=>""228 MW""",31.1900729,73.8878476,5,8795,4.2
+Bannu,"""power""=>""substation"",""voltage""=>""220000"",""operator""=>""NTDC""",32.9705315,70.6322955,4,11382.75,4.3
+Bannu 132 KV,"""power""=>""substation"",""voltage""=>""132000""",33.0191008,70.7145749,44,9688.159091,4.3
+Bhikki Thermal Power Plant,"""power""=>""generator"",""power_source""=>""gas""",31.6156737,73.9063541,2,12856,4.2
+Bijli Ghar,"""power""=>""substation""",32.5626376,74.0496752,4,9233,4.2
+Bin Qasim Power Plant,"""power""=>""plant"",""operator""=>""Karachi Electric Supply Company"",""wikipedia""=>""en:Karachi Electric Supply Company"",""generator:method""=>""thermal"",""generator:source""=>""oil;gas"",""plant:output:electricity""=>""1.82 GW""",24.7806828,67.3615404,3,12467.33333,4.69
+Burhan,"""power""=>""substation"",""voltage""=>""220000"",""operator""=>""NTDC""",33.8263302,72.6181846,2,4022,4.28
+Charsadda,"""power""=>""substation"",""voltage""=>""132000"",""substation""=>""yes""",34.0830566,71.5746418,3,9436.333333,4.15
+Crescent Power Tech Ltd.,"""power""=>""generator"",""generator:type""=>""francis_turbine"",""generator:method""=>""combustion"",""generator:source""=>""oil""",31.5912816,73.5481414,96,10643.63542,4.2
+D.G. Khan,"""power""=>""substation""",30.0022883,70.4785638,2,13036,4.45
+Daharki,"""power""=>""substation""",28.0628033,69.6865307,23,9529.521739,4.7
+Daud Khel,"""power""=>""substation"",""voltage""=>""220000"",""operator""=>""NTDC""",32.937771,71.5603811,4.263,8943.478261,4.2
+Engro Energy CCGT Power Plant,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""gas"",""generator:output:electricity""=>""200 MW""",28.0281814,69.367167,5,8683.6,4.7
+FWEL-I / Mirpur Sakro Power House,"""power""=>""generator"",""generator:source""=>""wind""",24.5573422,67.6228984,5,4754.4,4.69
+Fauji Kabirwala Power Plant,"""power""=>""plant"",""operator""=>""Fauji Kabirwala Power Company"",""generator:method""=>""thermal"",""generator:source""=>""gas"",""plant:output:electricity""=>""157 MW""",30.5230317,71.9569622,7,10988.57143,4.39
+Foundation Power Company,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""gas"",""generator:output:electricity""=>""177 MW""",27.9824202,69.672714,100,6031.62,4.69
+GEPCO Grid Station,"""power""=>""substation""",32.4977805,74.4965469,1,1729,4.04
+Garden,"""power""=>""substation""",24.8688775,67.0238755,13,13383.76923,4.69
+Gatti,"""power""=>""sub_station"",""operator""=>""NTDC""",31.4752464,73.1486968,2,13206,4.2
+Ghazi Road,"""power""=>""substation"",""operator""=>""NTDC""",31.5493092,74.4292075,6,5924.833333,4.2
+Grid Station,"""power""=>""substation""",32.4720603,74.5497353,2,2809,4.04
+Grid Station 66 KV FESCO,"""power""=>""generator""",31.391854,71.4318014,0,14593.5,4.25
+Guddu,"""power""=>""sub_station"",""substation""=>""yes""",28.4332274,69.6932199,11,13681.09091,4.673
+Guddu Thermal Station,"""power""=>""plant"",""generator:method""=>""thermal"",""generator:source""=>""oil;gas"",""plant:output:electricity""=>""1.655 GW""",28.4294038,69.7015568,4,11127.75,4.46
+Gul Ahmed Energy Oil Power Plant,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""oil"",""generator:output:electricity""=>""140 MW""",24.8494054,67.1486995,,14593.5,4.69
+Hala Road,"""power""=>""substation"",""substation""=>""yes""",25.425913,68.3817494,100,7561.87,4.69
+Hubco Narowal Power Plant,"""power""=>""substation"",""capacity""=>""225"",""operator""=>""NTDC"",""substation""=>""Furnace_Oil_Fired_Plant""",32.0595718,74.78066,6,7769.666667,4.03
+Hubco Power Plant,"""power""=>""generator"",""generator:method""=>""thermal""",24.9077919,66.6927384,5,3421.6,4.69
+IESCO Grid Station,"""power""=>""yes""",33.643352,73.1551129,16,11494.1875,4.25
+Jamshoro,"""power""=>""sub_station"",""operator""=>""National Transmission & Despatch Company (NTDC)"",""substation""=>""transmission""",25.477793,68.2718812,5,3438.4,4.69
+Jamshoro Thermal Power Plant,"""power""=>""plant"",""operator""=>""Jamshoro Power Company"",""generator:method""=>""thermal"",""generator:source""=>""oil;gas"",""plant:output:electricity""=>""1054 MW""",25.4772804,68.2742712,27,10512.7037,4.69
+Japan Power Plant,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""oil"",""generator:output:electricity""=>""130 MW""",31.3260153,74.2640629,13,9661.307692,4.2
+Jhimpir Wind Energy Project,"""power""=>""generator"",""generator:source""=>""wind""",25.0855847,67.9775035,4,12583.25,4.69
+Jinnah Power House,"""power""=>""generator"",""operator""=>""WAPDA"",""generator:type""=>""horizontal_axis"",""generator:method""=>""run-of-the-river"",""generator:source""=>""hydro""",32.9231254,71.5127427,4.263,4435.05,4.2
+Johal Power line,"""power""=>""line""",31.5272979,73.3769757,1,5367,4.2
+K.D.A-33,"""power""=>""substation"",""operator""=>""HESCO""",24.9789087,67.1575119,1,6003,4.69
+KANUPP 2&3,"""power""=>""plant""",24.8529623,66.7726266,4,5707.5,4.69
+KANUPP-1,"""power""=>""generator"",""generator:method""=>""fission"",""generator:source""=>""nuclear"",""generator:output:electricity""=>""85 KW"",""generator:output:electricity_old""=>""125 MW""",24.8451838,66.7889223,7,7183.428571,4.69
+KESC Korangi Gas Power Plant,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""gas"",""generator:output:electricity""=>""35 MW""",24.8491964,67.1447414,3,14387,4.69
+KESC Korangi Power Plant,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""gas"",""generator:output:electricity""=>""200 MW""",24.785034,67.1396766,1,4474,4.69
+KESC SITE Gas Power Plant,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""gas"",""generator:output:electricity""=>""120 MW""",24.9129177,66.9922463,5,8687.8,4.69
+Kapco 1638 MW,"""power""=>""sub_station"",""operator""=>""NTDC""",30.4461358,70.9792678,90,9534.8,4.325
+Kassowal,"""power""=>""substation""",30.4868207,72.5327832,0,14593.5,4.2
+Khan Khwar Hydropower Project,"""power""=>""plant"",""operator""=>""WAPDA"",""start_date""=>""8.11.2010"",""plant:output:electricity""=>""130 MW""",34.9022281,72.8076509,0,14593.5,3.67
+Khuzdar,"""power""=>""sub_station""",27.7630312,66.6262466,0,14593.5,5.27
+Kohinoor Power Plant,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""oil"",""generator:output:electricity""=>""130 MW""",31.2620873,74.1860121,11,10864.54545,4.2
+Kot Addu Power Plant,"""power""=>""plant"",""wikipedia""=>""en:Kot Addu Power Company"",""generator:method""=>""thermal"",""generator:source""=>""oil;gas"",""plant:output:electricity""=>""1.6 GW""",30.4429255,70.9770377,2,12117,4.2
+LESCO Grid Station,"""power""=>""substation""",31.489185,74.3099622,0,14593.5,4.2
+Lahore,"""power""=>""sub_station""",31.6517316,74.0363875,2,11688,4.2
+Lakhra Coal Power Plant,"""power""=>""plant"",""operator""=>""Water & Power Development Authority (WAPDA)"",""generator:method""=>""thermal"",""generator:source""=>""coal"",""plant:output:electricity""=>""150 MW""",25.7016284,68.2890621,0,14593.5,4.69
+Lalpir Power Limited,"""power""=>""substation"",""capacity""=>""362MW"",""substation""=>""Oil-fired_thermal""",30.1749094,70.9917108,0,14593.5,4.367
+Lalsohanra,"""power""=>""substation"",""voltage""=>""132000"",""operator""=>""NTDC""",29.4632593,71.9683982,20,8025.95,4.46
+Loralai,"""power""=>""substation""",30.3537368,68.5959398,0,14593.5,5.31
+MEPCO,"""power""=>""generator""",29.6984958,72.5586949,6,8364.294872,4.46
+Mangla Dam,"""power""=>""plant"",""name:de""=>""Mangla-Talsperre"",""name:en""=>""Mangla Dam"",""name:ur""=>""Å®â€¦Å®â€ ÃšÅ»Å®â€žÅ˜Â§ Å˜Â¨Å®â€ Å˜Å»"",""end_date""=>""1967"",""start_date""=>""1966"",""plant:output:electricity""=>""1000 MW""",33.1535371,73.6354367,3,7091,4.14
+Mardan,"""power""=>""substation"",""voltage""=>""220000"",""operator""=>""NTDC""",34.1601891,72.0319833,1,13346,4.2
+Master 01,"""power""=>""generator"",""power_source""=>""wind""",25.0112941,67.6524209,1,5472,4.69
+Multan,"""power""=>""sub_station""",30.2476031,71.614147,3,10720,4.35
+Muzaffargarh,"""power""=>""sub_station"",""access""=>""no"",""voltage""=>""220000"",""operator""=>""NTDC""",30.0994922,71.1676755,1,2600,4.2
+N.K.I,"""power""=>""sub_station"",""voltage""=>""500000"",""substation""=>""yes""",24.9747393,66.9254917,1,1888,4.69
+New Dadu,"""power""=>""sub_station""",26.7157408,67.7427737,1,12778,4.69
+New Kot Lakhpat,"""power""=>""substation""",31.5078869,74.3306065,5,10843.6,4.2
+Nishat Power Limited,"""power""=>""substation"",""capacity""=>""200 MW""",31.1253385,73.9016529,20,10106.7,4.2
+Okara,"""power""=>""substation"",""voltage""=>""220000"",""operator""=>""NTDC""",30.8032812,73.4625386,4,10696.5,4.2
+P G,"""power""=>""generator""",34.5191787,71.9189424,4.28,9340.75,4.25
+PESHAWAR,"""power""=>""substation"",""operator""=>""TESCO""",33.9320623,71.5429282,4,6910,4.25
+Pasni Power House,"""power""=>""substation""",25.2942045,63.4365257,0,14593.5,4.69
+Peshawar,"""power""=>""sub_station""",33.9261953,71.5437783,4,13104.75,4.25
+Power Grid Station,"""power""=>""generator""",34.6073784,73.1199198,1,9056,4.539
+Power House (North Karachi),"""power""=>""substation""",24.9858088,67.0633244,1,347,4.69
+Power Station,"""power""=>""substation""",35.4684787,75.3569257,4,4165.75,3.6
+Power Station Rousch,"""power""=>""plant"",""generator:method""=>""thermal"",""generator:source""=>""gas"",""plant:output:electricity""=>""450 MW""",30.5692822,72.1364602,67,9221.865672,4.39
+Power line,"""power""=>""line""",31.5270582,73.343587,4,11582.75,4.2
+Quaid-e-Azam Solar Power Plant,"""power""=>""generator"",""operator""=>""QA Solar Power Ltd"",""generator:type""=>""solar_photovoltaic_panel"",""generator:method""=>""photovoltaic"",""generator:source""=>""solar"",""generator:output:hot_water""=>""100MW""",29.3237879,71.8173648,84,6759.738095,4.46
+Quetta,"""power""=>""sub_station""",30.0687478,66.9799106,4,11408.5,5.34
+REWAT New,"""power""=>""sub_station""",33.4813089,73.1897689,79,10048.32911,4.25
+Rohri New,"""power""=>""substation"",""voltage""=>""220000"",""operator""=>""NTDC"",""substation""=>""yes""",27.6675679,68.9654029,2,13675.5,4.69
+Saba Power Plant,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""oil"",""generator:output:electricity""=>""125 MW""",31.7339127,73.8767378,100,9343.27,4.2
+Sahiwal,"""power""=>""sub_station""",30.6683997,73.1743335,2,11580.5,4.2
+Saif Power Limited,"""power""=>""substation"",""capacity""=>""225 MW"",""substation""=>""yes""",30.6979244,73.25973,5,4311,4.2
+Samundri Road,"""power""=>""substation"",""voltage""=>""220000"",""operator""=>""NTDC""",31.2802268,73.0836823,2,11702.5,4.2
+ShahiBagh,"""power""=>""substation"",""voltage""=>""220000"",""operator""=>""NTDC""",34.0569411,71.5845698,2,972.5,4.15
+Shalimar,"""power""=>""substation"",""voltage""=>""220000"",""operator""=>""NTDC""",31.5928254,74.3902146,3,3897.333333,4.2
+Shikarpur,"""power""=>""substation""",28.0270785,68.6312502,4,9634.75,4.69
+Sialkot,"""power""=>""substation"",""operator""=>""NTDC"",""substation""=>""yes""",32.4977487,74.4965303,1,2787,4.2
+Sibbi,"""power""=>""substation""",29.5175791,67.8535092,10,12567.4,4.6
+Sitara Energy Ltd,"""power""=>""substation"",""capacity""=>""85 Mw"",""substation""=>""yes""",31.5343948,73.3938557,4,7759.25,4.2
+Skeikhupura Power line (WAPDA 1960),"""power""=>""line""",31.5393023,73.3778432,1,2544,4.2
+Southern Electric Power Plant,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""oil"",""generator:output:electricity""=>""117 MW""",31.29304,74.2464067,59,10418.37288,4.2
+Standby Generator,"""power""=>""generator""",24.9432548,67.1845343,61,9941.737705,4.69
+T ROOM,"""power""=>""generator""",34.5193229,71.9175038,82,11021.36585,4.25
+T.M.Khan,"""power""=>""substation"",""substation""=>""yes""",25.133278,68.5444206,0,14593.5,4.69
+TNB Liberty Power Plant,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""gas"",""generator:output:electricity""=>""235 MW""",28.0323342,69.6351802,4,8658.5,4.7
+Tapal Energy Power Plant,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""diesel"",""generator:output:electricity""=>""120 MW""",25.0019772,66.9050149,5,10242.4,4.69
+Tarbela,"""power""=>""sub_station""",34.0885573,72.6934631,92,10207.23913,4.266
+Three Gorges First Wind Farm,"""power""=>""generator"",""generator:source""=>""wind""",25.0825195,67.9396055,4,12437.25,4.69
+Toba Tek Singh,"""power""=>""substation"",""voltage""=>""220000"",""operator""=>""NTDC""",30.8886891,72.6840366,1,5359,4.28
+Uch,"""power""=>""generator""",28.5818304,68.171351,4,5684.5,4.58
+Uch Power Plant,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""gas"",""generator:output:electricity""=>""596 MW""",28.5721024,68.171639,31,11972.25806,4.46
+Vehari,"""power""=>""substation""",30.0517159,72.3649762,0,14593.5,4.45
+WAPDA Faisalabad GTPS Power Station,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""gas""",31.4409714,73.1343879,12,13037.66667,4.2
+WAPDA Kotri CCGT Power Station,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""gas"",""generator:output:electricity""=>""140 MW""",25.3413824,68.2545235,12,13207.58333,4.69
+WAPDA Multan Gas Power Station,"""power""=>""generator"",""generator:method""=>""thermal"",""generator:source""=>""gas"",""generator:output:electricity""=>""60 MW""",30.2064342,71.5618434,100,10759.13,4.35
+WAPDA Power Distribution,"""power""=>""generator"",""operator""=>""PESCO""",34.1573108,73.2406959,9,10155.44444,4.41
+Wadpagga,"""power""=>""substation"",""capacity""=>""132"",""substation""=>""yes""",34.0506933,71.6471299,3,6741.333333,4.15
+Wapda Grid Station,"""power""=>""generator"",""operator""=>""WAPDA"",""generator:source""=>""solar""",34.15745,73.2422218,13,6936.846154,4.25
+Warsak Dam,"""power""=>""generator"",""capacity""=>""243"",""generator:source""=>""hydro""",34.1636688,71.3589279,76,11025.61842,4.25
+uoo,"""power""=>""line""",31.4757509,74.3415789,4,6595,4
